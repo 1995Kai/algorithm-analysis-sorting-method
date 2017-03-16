@@ -29,6 +29,6 @@ dataset 20 times.
    (+20%)
 3) Demonstrate the ability of the program to handle French word list. (+5%)
 4) Randomize the order and sizes of the dataset 20 times and plot the best case,
-   average cast and worst case times of the 6 sort algorithms on a single graph.
+   average cast and worst case times of the 4 sort algorithms on a single graph.
    (+20%)
 5) Analyze 3) and compare the results against theoretical analysis (big O). (+5%)
