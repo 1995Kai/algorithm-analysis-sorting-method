@@ -1,7 +1,4 @@
-# algorithm-analysis-sorting-method
-
-Assignment 1 Principles of Analysis of Algorithms and Sorting Methods 
-=
+# Assignment 1 Principles of Analysis of Algorithms and Sorting Methods 
 CPT212 Design & Analysis Algorithm                       
 University of Science, Malaysia                          
 
